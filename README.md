@@ -1,1 +1,1 @@
-First commit of boot.dev self guided project!
+First commit of boot.dev self guided project! my first project
