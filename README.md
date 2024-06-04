@@ -1,1 +1,1 @@
-First commit of boot.dev self guided project! my first project
+BookBot is my first project!
